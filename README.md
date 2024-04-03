@@ -58,7 +58,7 @@
 - APT: Advanced Packaging Tool.
 - APU: Accelerated Processing Unit.
 - ARP: Address Resolution Protocol.
-- ATA: AT Attachment.
+- ATA: Advanced Technology Attachment.
 - AWS: Amazon Web Services.
 
 ### B
